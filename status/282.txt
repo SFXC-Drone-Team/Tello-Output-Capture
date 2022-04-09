@@ -1,0 +1,1 @@
+mid:-1;x:-100;y:-100;z:-100;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:82;temph:84;tof:10;h:0;bat:80;baro:70.04;time:0;agx:15.00;agy:-9.00;agz:-999.00;
