@@ -1,5 +1,5 @@
 # Tello-Output-Capture
-A repository to store test output from tello.
+A program to grab response from tello.
 
 ## Python Env
 ### Python Version
